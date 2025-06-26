@@ -1,5 +1,3 @@
-# BlogCraft CMS - Complete Source Code
-
 ## Project Structure
 ```
 blogcraft-cms/
